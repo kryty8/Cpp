@@ -1,2 +1,2 @@
 # Cpp
-C++ programs during studies
+C++ programs during studies and on my own. 
